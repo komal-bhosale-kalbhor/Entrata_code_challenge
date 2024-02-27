@@ -5,7 +5,7 @@ In this Project Code challenge i have created 2 page object class which has elem
  a. Page1 - WatchDemoPage.java
  b. Page2 - PropertyManagementpage.java
 
-after that i have created one Main testcase class which has covered below testcases-
+after that i have created one Main testcase class "Verifydemowatch" which has covered below testcases-
 
 1. I have tested Watch Demo functionality in our first testcase.
 2. In Second testcase after click on Demow Watch button , we have tested all the fields which are displayed on the screen by passing the valid testdata.
